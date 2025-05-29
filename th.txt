@@ -61,3 +61,14 @@ identity op : is, is not
 if else
 loops
 switch case [match case..]
+
+string:
+1)string is immutable: 
+2)string is sequence of char
+3)string is iterable [loop]
+4)string is object
+5)String is subscriptable index...
+6)string is dynaic
+7)string is ordered
+8)string stores data in unicode format
+9)string stores data in array
