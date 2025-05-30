@@ -72,3 +72,18 @@ string:
 7)string is ordered
 8)string stores data in unicode format
 9)string stores data in array
+
+
+
+list)
+1)list is dynaic
+2)list is ordered : [10,20,30] --> [10,20,30]
+3)list is iterable
+4)list is mutable
+5)list is subscriptable
+6)list allow duplicate data
+7)list stores data in array format
+8)list heterogeneous data
+9)data type of list is list
+
+[]
