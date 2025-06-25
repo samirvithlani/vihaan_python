@@ -121,3 +121,41 @@ words = ["hi", "hello", "sun", "moon", "a", "sky"]
 
 data = {"a": 1, "b": 2, "c": 3}
 # Expected output: {1: "a", 2: "b", 3: "c"}
+
+
+#[["virat",10,20,40,50,23],["ms",100,80,70,50]]
+output:
+[["virat,143],["ms",400]]
+
+
+students = [("Alice", 85), ("Bob", 92), ("Charlie", 85), ("David", 92), ("Eva", 78)]
+# Expected output: {85: ["Alice", "Charlie"], 92: ["Bob", "David"], 78: ["Eva"]}
+
+employees = [
+    ("IT", {"name": "Alice", "salary": 60000}),
+    ("HR", {"name": "Bob", "salary": 50000}),
+    ("IT", {"name": "Charlie", "salary": 65000}),
+    ("Finance", {"name": "David", "salary": 70000}),
+    ("HR", {"name": "Eva", "salary": 52000})
+]
+
+{
+  "IT": [{"name": "Alice", "salary": 60000}, {"name": "Charlie", "salary": 65000}],
+  "HR": [{"name": "Bob", "salary": 50000}, {"name": "Eva", "salary": 52000}],
+  "Finance": [{"name": "David", "salary": 70000}]
+}
+
+
+items = ["pen", "pencil", "pen", "eraser", "pencil", "pen"]
+{
+  "pen": [3, 5],
+  "pencil": (2, 4),
+  "eraser": (1, 3)
+}
+
+
+[],(), ->index -->array [] homogenius memory
+{} -> dict key value
+set does not allow duplicate emp
+set is not subscriptable
+set is iterable
