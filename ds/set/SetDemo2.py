@@ -12,3 +12,8 @@ user2 = {"ram","seeta","arjun","sahdev"}
 x = user1.issubset(user2)
 x = user1.issuperset(user2)
 print(x)
+
+mumbai = {"amit","raj","parth","kunal"}
+goa = {"amit","priya","shyam","sneha","kunal"}
+pune = {"amit","ajay","rajvi","neha"}
+

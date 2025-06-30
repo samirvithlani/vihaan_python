@@ -159,3 +159,38 @@ items = ["pen", "pencil", "pen", "eraser", "pencil", "pen"]
 set does not allow duplicate emp
 set is not subscriptable
 set is iterable
+
+
+functions:
+function is block of code which is use for reuse of code...
+
+with r w arg
+with e wo a
+without r wo a
+
+int demo
+void demo
+
+def test():
+    pass
+
+
+
+
+fun("add",1,2,3,4) -->
+fun("sub",10,20,100,90,) -->
+fun("abc",10,20,100) --> invlid choice
+
+
+
+pass args  and return sum of numbers if all numbers are int or return FALSE
+pass args in strings like names... and convert all to upper if all are strings or return FALSE : list comprehent
+pass args as 2 list and concat all uniqie numbers
+def add(*args)
+
+
+add([1,2,3],[1,2,4])
+
+
+ 
+
