@@ -191,6 +191,15 @@ def add(*args)
 
 add([1,2,3],[1,2,4])
 
+session 1:lambda, decorators,map filter,generaotr
+session 2: file handling
+session 3: math,random, oop start
+session 4: oop continue
+session 5: oop
+
+
+
+
 
  
 
