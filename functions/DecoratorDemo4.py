@@ -3,6 +3,7 @@
 def safediv(func):
     
     def inner(no1,no2):
+        print(f"function name is {func.__name__} ")
         if no2 ==0:
             print("can not divide by zero")
         else:
